@@ -17,3 +17,8 @@ node app.js add --title="note name"
 if npm modules are missing
 npm install
 
+
+
+this is a test tk seeasezflnsezlrdgksdrng
+
+
